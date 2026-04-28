@@ -1,0 +1,6 @@
+Frontend: https://duckrollsnrice.vercel.app/
+Backend: https://duckrollsnrice.up.railway.app/
+
+Frontend link can be used to view the website
+
+GitHub Repo: https://github.com/YVKartikeya9/Felicity_Management_Website.git
